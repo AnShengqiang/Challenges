@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_442497fa886404322b145aa217e9754064a0dc6c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_dbf9a4ab4ecf175afd1c4dfb74811eace9932d83\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3c64bf71b115554994b1821238f7fe08f8906a97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c77828dd7ee1a7755db6e25593e2890ce68833d5">
+        <dex dex="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\pre-dexed\debug\instant-run_7ea44841c9af28545091f3d35f4d26000ea5787f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="edfffd2674db964d803756521c209459f6c61b83">
+        <dex dex="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_aac703c6e1dc37f084f32d5b6b9468b0b681161b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_846aba1604c43bdaaf3b56470cbdd33777b35473.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0c64c52b7d2a5350d9340435a6a46d28581cf8d4">
+        <dex dex="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a8f9d603ab0693071132e5b309d2e4b1ac9ca09b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_296c78394442a8a18c72b217f16be95af3ff664a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_22c14a3827808a42106a2bb22ee3738fc914d279.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_3d4b0a10eeab79c6f342b30d09bca3a578d0bb57.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_10cd953c940accdea77ebb67004f63b8f836c70e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_d73aacdd9f675ca7142640490c29423476eb0165\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_7933a6d210292befcac854d00a93f718a040308f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_2da8a56ff19b9b70e43a44d9019fef0ab551e6aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_db28a4b0c16a9de1e196b9619a495a8634a69b4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5a8da96eb95dc5c72a1a412f563774eff2f448fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_0d7d44e2c1c361ce710287f678092d903a820ad3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_0fc2f70dcbbb53f8954d2fb58c984e18362261cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_10cd953c940accdea77ebb67004f63b8f836c70e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_aca2601d6d95ddfcc75f2824ad7460f30a1145eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1ebbcd937e45f2139382691ef99d06fa5b41e90c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b639ee7b9af9d56f8516680b9e2d455a19daee7e">
+        <dex dex="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7491adf6b27e26cf074bd70aa03991620757d40d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_14ca53d5796a1e9cd0db02933e66efb5c9e094c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_cd73f70f898eb3c5e57e79a63e3e270330b375d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_1ef1a72177b225045f015b79aee2606f740028be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_ac9f5b981cdd0355e08665cfd7c1aaebbe90851c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_6bb60f9eac1b789363e90d75f2d6aa48b6486e19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_8dc9955c4ec6fd08c6198d182ad22c254c2a4491\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_39a15f5f9685a1707ad1b69c95b6f80108ddf0fa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_aeaa84e89aa84b957c339d5f1f970bf1a4cb4e4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ad647aaf330b2ff1af657f8c113f1c0e0ee575f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_67fa2d34ce4c30fdbd3444f777252464a4dadc3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="H:\GitHub\AndroidWorkspace\challenges\OverWatchQuiz Challenge\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_479b36e3c463c6d5bd6fa7c58dbbfedffc1c77ac.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="H:\GitHub\AndroidWorkspace\OverWatchQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_6769c7e5ea0e85c4a698721949f8fe390b64cb88\classes.dex" />
+    </item>
+
+</items>
