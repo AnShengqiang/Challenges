@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DormitoryEvent.iml" filepath="$PROJECT_DIR$/DormitoryEvent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DormitoryEvent Challenge8.iml" filepath="$PROJECT_DIR$/DormitoryEvent Challenge8.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

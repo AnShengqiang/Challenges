@@ -1,5 +1,8 @@
 package com.charger.android.dormtoryevents;
 
+
+
+import java.text.DateFormat;
 import java.util.Date;
 import java.util.UUID;
 
@@ -19,6 +22,13 @@ public class Event {
     public Event(){
         mId = UUID.randomUUID();                                                                    //随机生成id
         mDate = new Date();
+    }
+
+    /*查阅api：DateFormat*/
+    protected String setFormatDate(Date date) {
+        DateFormat dateFormat = DateFormat
+                .getDateInstance(DateFormat.FULL);
+        return dateFormat.format(date);
     }
 
 
